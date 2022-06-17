@@ -24,7 +24,7 @@ self.__precacheManifest = [
     "url": "/react-gh-pages/static/media/wt-aboutimg.f947f27f.png"
   },
   {
-    "revision": "7cd8e0d36d4684ee172c51c01358bb73",
+    "revision": "024c86938aa9a4fcaf302be8c56ce555",
     "url": "/react-gh-pages/index.html"
   }
 ];
